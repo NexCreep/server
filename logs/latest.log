@@ -1,0 +1,269 @@
+[12:48:39] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
+[12:48:39] [main/INFO]: Loading 93 mods:
+	- appleskin 3.0.2+mc1.21
+	- architectury 13.0.1
+	- cloth-config 15.0.127
+	   \-- cloth-basic-math 0.6.1
+	- clumps 18.0.0.1
+	- collective 7.64
+	- creeperoverhaul 4.0.0
+	- croptopia 3.0.4
+	- doubledoors 5.8
+	- epherolib 1.2.0-1.20.6
+	- fabric-api 0.100.3+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.67+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.28+6fc22b99d1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.48+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.27+6a6dfa19d1
+	   |-- fabric-commands-v0 0.2.65+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.13+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.14+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.3.1+8a3b5617d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.23+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.8+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.10+e633f883d1
+	   |-- fabric-game-rule-api-v1 1.0.52+6573ed8cd1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.1+cb5ced13d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.11+8f3583aed1
+	   |-- fabric-loot-api-v2 3.0.10+6573ed8cd1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.0+ab7edbacd1
+	   |-- fabric-object-builder-api-v1 15.1.11+d1321076d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.9+6573ed8cd1
+	   |-- fabric-registry-sync-v0 5.0.22+ab7edbacd1
+	   |-- fabric-renderer-api-v1 3.2.16+fe474d6bd1
+	   |-- fabric-renderer-indigo 1.6.4+48fb1586d1
+	   |-- fabric-renderer-registries-v1 3.2.66+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.69+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.3+d1321076d1
+	   |-- fabric-resource-conditions-api-v1 4.2.1+d153f344d1
+	   |-- fabric-resource-loader-v0 1.1.4+cb5ced13d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.79+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.14+b5597344d1
+	   \-- fabric-transitive-access-wideners-v1 6.0.12+6573ed8cd1
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- geckolib 4.5.6
+	- glitchcore 2.0.0.1
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- handcrafted 4.0.1
+	- jade 15.0.4+fabric
+	- jamlib 1.0.9+1.21
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 19.0.0.11
+	- mcwdoors 1.1.1
+	- mcwlights 1.1.0
+	- mcwpaths 1.0.5
+	- mcwtrpdoors 1.1.3
+	- minecraft 1.21
+	- notenoughanimations 1.7.4
+	- placeholder-api 2.4.0+1.21
+	- polymer-bundled 0.9.2+1.21
+	   |-- polymer-autohost 0.9.2+1.21
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.9.2+1.21
+	   |-- polymer-common 0.9.2+1.21
+	   |    \-- packet_tweaker 0.5.4+1.20.6
+	   |-- polymer-core 0.9.2+1.21
+	   |    |-- polymer-networking 0.9.2+1.21
+	   |    |    \-- polymer-common 0.9.2+1.21
+	   |    |         \-- packet_tweaker 0.5.4+1.20.6
+	   |    \-- polymer-registry-sync-manipulator 0.9.2+1.21
+	   |-- polymer-resource-pack 0.9.2+1.21
+	   |    \-- polymer-common 0.9.2+1.21
+	   |         \-- packet_tweaker 0.5.4+1.20.6
+	   \-- polymer-virtual-entity 0.9.2+1.21
+	        \-- polymer-common 0.9.2+1.21
+	             \-- packet_tweaker 0.5.4+1.20.6
+	- resourcefulconfig 3.0.1
+	- resourcefullib 3.0.1
+	   |-- com_teamresourceful_bytecodecs 1.1.0
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 4.2.0+1.21
+	- sereneseasons 10.0.0.2
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- skinlayers3d 1.6.6
+	- skinrestorer 1.2.4+1.21
+	- spark 1.10.73
+	   \-- fabric-permissions-api-v0 0.3.1
+	- universal-graves 3.4.1+1.21
+	   |-- common-protection-api 1.0.0
+	   |-- polymer-core 0.9.2+1.21
+	   |    |-- polymer-networking 0.9.2+1.21
+	   |    |    \-- polymer-common 0.9.2+1.21
+	   |    |         \-- packet_tweaker 0.5.4+1.20.6
+	   |    \-- polymer-registry-sync-manipulator 0.9.2+1.21
+	   |-- polymer-resource-pack 0.9.2+1.21
+	   |    \-- polymer-common 0.9.2+1.21
+	   |         \-- packet_tweaker 0.5.4+1.20.6
+	   |-- polymer-virtual-entity 0.9.2+1.21
+	   |    \-- polymer-common 0.9.2+1.21
+	   |         \-- packet_tweaker 0.5.4+1.20.6
+	   |-- predicate-api 0.5.1+1.21
+	   |-- server_translations_api 2.3.1+1.21-pre2
+	   \-- sgui 1.6.0+1.21
+	- xaerominimap 24.2.1
+[12:48:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/DEV/minecraft/infitinix-mv/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[12:48:42] [main/INFO]: Compatibility level set to JAVA_21
+[12:48:43] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[12:48:43] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[12:48:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[12:48:50] [main/INFO]: Loading Collective version 7.64.
+[12:48:50] [main/ERROR]: No data fixer registered for jungle_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for bamboo_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for desert_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for badlands_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for hills_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for savannah_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for mushroom_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for swamp_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for dripstone_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for cave_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for spruce_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for beach_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for snowy_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for ocean_creeper
+[12:48:50] [main/ERROR]: No data fixer registered for birch_creeper
+[12:48:50] [main/INFO]: Creating default config file: croptopia_v3.conf
+[12:48:50] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[12:48:50] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[12:48:50] [main/ERROR]: No data fixer registered for season_sensor
+[12:48:51] [main/ERROR]: No data fixer registered for handcrafted
+[12:48:51] [main/INFO]: Initializing JamLib on Fabric
+[12:48:52] [main/INFO]: Updated config file at D:\DEV\minecraft\infitinix-mv\config\rightclickharvest.json5
+[12:48:52] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[12:48:52] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[12:48:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:48:53] [main/INFO]: Loaded 2766 recipes
+[12:48:53] [main/INFO]: Loaded 2303 advancements
+[12:48:53] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[12:48:55] [main/INFO]: Applied 321 biome modifications to 64 of 64 new biomes in 16.73 ms
+[12:48:55] [Server thread/INFO]: Starting background profiler...
+[12:48:55] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[12:48:55] [Server thread/INFO]: Starting minecraft server version 1.21
+[12:48:55] [Server thread/INFO]: Loading properties
+[12:48:55] [Server thread/INFO]: Default game type: SURVIVAL
+[12:48:55] [Server thread/INFO]: Generating keypair
+[12:48:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:48:55] [Server thread/INFO]: Using default channel type
+[12:48:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:48:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:48:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:48:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:48:55] [Server thread/INFO]: Preparing level "world"
+[12:48:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:48:57] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:48:57] [Server thread/INFO]: Time elapsed: 412 ms
+[12:48:57] [Server thread/INFO]: Done (1.533s)! For help, type "help"
+[12:48:57] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[12:48:57] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[12:48:57] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[12:48:57] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[12:48:57] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[12:48:57] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[12:52:12] [Server thread/INFO]: NexCreep[/127.0.0.1:61396] logged in with entity id 9 at (-78.89178051415134, 64.0, -275.67804333478335)
+[12:52:12] [Server thread/INFO]: NexCreep joined the game
+[12:59:18] [Server thread/INFO]: [NexCreep: Set own game mode to Creative Mode]
+[13:01:11] [Server thread/INFO]: [NexCreep: Set season to Early Winter]
+[13:03:34] [Server thread/INFO]: [NexCreep: Set the weather to rain & thunder]
+[13:07:34] [Server thread/INFO]: Villager class_1646['Unemployed'/5600, l='ServerLevel[world]', x=757.70, y=79.00, z=-1015.57] died, message: 'Unemployed was slain by NexCreep'
+[13:09:37] [Server thread/INFO]: [NexCreep: Set season to Late Spring]
+[13:09:44] [Server thread/INFO]: [NexCreep: Set season to Late Summer]
+[13:09:53] [Server thread/INFO]: [NexCreep: Set the weather to clear]
+[13:16:36] [Server thread/INFO]: [NexCreep: Set own game mode to Spectator Mode]
+[13:16:57] [Server thread/INFO]: NexCreep has made the advancement [Minecraft: Trial(s) Edition]
+[13:17:24] [Server thread/INFO]: [NexCreep: Set own game mode to Creative Mode]
+[13:17:51] [Server thread/INFO]: NexCreep has completed the challenge [Cover Me in Debris]
+[13:22:05] [Server thread/INFO]: [NexCreep: Set own game mode to Survival Mode]
+[13:22:38] [Server thread/INFO]: [NexCreep: Gave 64 [Dirt] to NexCreep]
+[13:24:55] [Server thread/INFO]: NexCreep has made the advancement [Monster Hunter]
+[13:43:04] [Server thread/INFO]: [NexCreep: Set own game mode to Spectator Mode]
+[13:43:30] [Server thread/INFO]: [NexCreep: Set own game mode to Creative Mode]
+[13:44:22] [Server thread/WARN]: NexCreep moved too quickly! -0.003946154997720441,0.0,10.888804168216666
+[13:45:11] [Server thread/WARN]: NexCreep moved too quickly! -0.0038521993178619596,0.0,10.888808062391035
+[13:46:57] [Server thread/INFO]: [NexCreep: Set the weather to clear]
+[13:49:06] [Server thread/WARN]: NexCreep moved too quickly! -0.5155231868752708,0.0,10.87668226169626
+[13:50:29] [Server thread/WARN]: NexCreep moved too quickly! -0.5155231868752708,0.0,10.87668226169626
+[14:05:51] [Server thread/INFO]: NexCreep lost connection: Disconnected
+[14:05:51] [Server thread/INFO]: NexCreep left the game
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: [⚡] spark v1.10.73
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark profiler info
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark profiler open
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark profiler start
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:       [--timeout <timeout seconds>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:       [--thread *]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:       [--thread <thread name>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:       [--only-ticks-over <tick length millis>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:       [--interval <interval millis>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:       [--alloc]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark profiler stop
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark profiler cancel
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark tps
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark ping
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--player <username>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark healthreport
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--memory]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--network]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark tickmonitor
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--threshold <percentage increase>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--threshold-tick <tick duration>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--without-gc]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark gc
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark gcmonitor
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark heapsummary
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--save-to-file]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark heapdump
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--compress <type>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: > /spark activity
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]:     [--page <page no>]
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: 
+[15:06:14] [spark-worker-pool-1-thread-1/INFO]: [⚡] For full usage information, please go to: https://spark.lucko.me/docs/Command-Usage
+[15:06:24] [Attach Listener/INFO]: [STDERR]: WARNING: A Java agent has been loaded dynamically (C:\Users\raulp\AppData\Local\Temp\byteBuddyAgent13394375068375575728.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+[15:06:24] [spark-worker-pool-1-thread-3/INFO]: [⚡] Profiler live viewer:
+[15:06:24] [spark-worker-pool-1-thread-3/INFO]: https://spark.lucko.me/rhf4YMfPsl
+[15:06:24] [spark-worker-pool-1-thread-3/INFO]: 
+[15:06:24] [spark-worker-pool-1-thread-3/INFO]: (NOTE: this link is temporary and will expire after a short period of time. If you need a link to share with other people (e.g. in a bug report), please use /spark profiler stop instead.)
+[15:06:30] [WebSocketConnectReadThread-155/INFO]: [Viewer - neYC08fsjwcq8Ze] Client connected: clientId=a281-9e4b, keyhash=139128, desc=Chrome on Windows
+[15:06:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:06:49] [Server thread/INFO]: tps<--[HERE]
+[15:06:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:06:54] [Server thread/INFO]: forge tps<--[HERE]
+[15:06:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:06:59] [Server thread/INFO]: fabric tps<--[HERE]
+[15:16:02] [Server thread/INFO]: Stopping the server
+[15:16:02] [Server thread/INFO]: Stopping server
+[15:16:02] [Server thread/INFO]: Saving players
+[15:16:02] [Server thread/INFO]: Saving worlds
+[15:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

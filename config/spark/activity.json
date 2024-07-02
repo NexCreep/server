@@ -1,0 +1,27 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1719320784538,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rhf4YMfPsl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NexCreep",
+      "uniqueId": "82076bd8-a786-4cde-8b37-1a48bb0f487b"
+    },
+    "time": 1719162786384,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/03OHcsLf2f"
+    }
+  }
+]
