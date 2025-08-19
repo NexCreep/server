@@ -66,8 +66,8 @@
         <mxCell id="xcjxFG68ZafjqSgIQfne-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" parent="1" vertex="1">
           <mxGeometry x="330" y="30" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="xcjxFG68ZafjqSgIQfne-28" value="MCStarter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="xcjxFG68ZafjqSgIQfne-28" value="MC Starter PRO" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="50" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcjxFG68ZafjqSgIQfne-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="xcjxFG68ZafjqSgIQfne-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="vhXG3RqV2L29xCb5pHnx-1" value="&lt;i&gt;Nest&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;dashPattern=8 8;fillColor=#DEDEDE;" vertex="1" parent="vhXG3RqV2L29xCb5pHnx-2">
           <mxGeometry y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vhXG3RqV2L29xCb5pHnx-3" value="MC Starter" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
